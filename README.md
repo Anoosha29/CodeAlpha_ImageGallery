@@ -1,6 +1,5 @@
 Image Gallery Project
 
-Overview
 
 This is a responsive Image Gallery built using HTML, CSS, and JavaScript. It displays a collection of images with an interactive lightbox feature for viewing images in full screen.
 
